@@ -15,7 +15,7 @@ endobj
 >>
 endobj
 4 0 obj
-<< /Length 1047 >>
+<< /Length 934 >>
 stream
 BT
 /F1 20 Tf
@@ -47,14 +47,12 @@ BT
 0 -18 Td
 (- Linguagens: JavaScript, TypeScript, Python, HTML5, CSS3) Tj
 0 -14 Td
-(- Frameworks & Ferramentas: React, React Native, Expo, Node.js, Git & GitHub) Tj
+(- Frameworks & Ferramentas: React, Node.js, Git & GitHub) Tj
 0 -30 Td
 /F1 14 Tf
 (PROJETOS DESTACADOS) Tj
 /F2 10 Tf
 0 -18 Td
-(- Forma Fake Store: Aplicativo mobile de e-commerce consumindo Fake Store API.) Tj
-0 -14 Td
 (- Portfolio Pessoal: Site estatico leve, WCAG AA, bilingue publicado no GitHub Pages.) Tj
 ET
 endstream
@@ -72,12 +70,12 @@ xref
 0000000064 00000 n 
 0000000121 00000 n 
 0000000269 00000 n 
-0000001368 00000 n 
-0000001443 00000 n 
+0000001254 00000 n 
+0000001329 00000 n 
 trailer
 << /Size 7
    /Root 1 0 R
 >>
 startxref
-1513
+1399
 %%EOF
