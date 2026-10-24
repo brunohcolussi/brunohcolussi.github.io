@@ -1,81 +1,90 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Page
-   /Parent 2 0 R
-   /MediaBox [0 0 612 792]
-   /Contents 4 0 R
-   /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
-<< /Length 934 >>
-stream
-BT
-/F1 20 Tf
-50 740 Td
-(Bruno H. Colussi) Tj
-/F2 12 Tf
-0 -24 Td
-(Estudante de Ciencia da Computacao | Desenvolvimento de Software) Tj
-0 -18 Td
-(Passo Fundo, RS - brunohcolussi2001@gmail.com - github.com/brunohcolussi) Tj
-0 -36 Td
-/F1 14 Tf
-(RESUMO PROFISSIONAL) Tj
-/F2 10 Tf
-0 -18 Td
-(Estudante de Ciencia da Computacao focado na construcao de software de qualidade, com) Tj
-0 -14 Td
-(experiencia pratica em JavaScript, TypeScript, React, Node.js e Python.) Tj
-0 -30 Td
-/F1 14 Tf
-(FORMACAO ACADEMICA) Tj
-/F2 10 Tf
-0 -18 Td
-(Bacharelado em Ciencia da Computacao - Em andamento) Tj
-0 -30 Td
-/F1 14 Tf
-(HABILIDADES TECNICAS) Tj
-/F2 10 Tf
-0 -18 Td
-(- Linguagens: JavaScript, TypeScript, Python, HTML5, CSS3) Tj
-0 -14 Td
-(- Frameworks & Ferramentas: React, Node.js, Git & GitHub) Tj
-0 -30 Td
-/F1 14 Tf
-(PROJETOS DESTACADOS) Tj
-/F2 10 Tf
-0 -18 Td
-(- Portfolio Pessoal: Site estatico leve, WCAG AA, bilingue publicado no GitHub Pages.) Tj
-ET
-endstream
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:brunohcolussi2001@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 81.501 746.0898 207.177 756.8898 ] /Subtype /Link /Type /Annot
+>>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.linkedin.com/in/bruno-hoffelder-colussi-a3b602310/)
+>> /Border [ 0 0 0 ] /Rect [ 258.549 746.0898 460.131 756.8898 ] /Subtype /Link /Type /Annot
+>>
 endobj
 6 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+<<
+/Annots [ 4 0 R 5 0 R ] /Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/PageMode /UseNone /Pages 9 0 R /Type /Catalog
+>>
+endobj
+8 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20261023212827-03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261023212827-03'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+9 0 obj
+<<
+/Count 1 /Kids [ 6 0 R ] /Type /Pages
+>>
+endobj
+10 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1379
+>>
+stream
+Gau0CbBBXM&DcY&C+8=6\6h'HX%4'fpt1m&@ch4;#!koM%+$a?B>u;@T>O#SN+9j@&M;@fY.AcAecQ<d&E*C'-3+DacBfA%!H/41BahXiE4j<1Uq$__NkmEJAt#"l@5<+qBS^`T%FC3U0K)573jBNVCd2'IXm,,n^e<U58H>6FEC)/(dm[<7$@Z'gSVSMQJZ[oecfH$hItIDfjne#uj*0oof6tsM2C^)A<i2oWXNH_r>%"^dJOW@t:`Zi)9^dQq=0O7)8AP_c)t9b`5\?F9NDCEl?tV5JI*1\`rS9[?W3K(sDVb@U&W<2P`<Yn13qL\5Z7rb"#/dOVV$^_tb`Y62+.BMSAid6AB-<X3Yg0?hd'hro5&==D#iX\7eO_>l8TT%tQrhY;Abnh`DYajXEIFl].nAbX4g/kLmZ2X][>8Dqh/Yn37Y;SQqK%BtrC&R>S33n;nCIf\e`8;ulcVk'T2'o><$R.C!C7-`J+8E?Np4$*m7W0tb7Zb&Y@Y7J>WJDQGm/EXe^E8igstfiH8&n%'(Ws$,qRM#&[am1OD^NJ^P'R#ZYR*4DfX3\c7D@KUY+MKGTE*I2h>DAWfOd#.]2g3$o/)gU>V-4I24(oUbZd82U5GA_+DSJS^"(%pX@91="^8rb4Mju;e^Bg*^h?'Wfo9(!Jgl16DT`;6s:uE'HDL8ODQO929[qoUPX6+>2RPPM@?+$\f13uHQ!ieAq]&Veh*6/DG?.M^-,;#HC4q6)>KF69m[W^f[$Y^&-ZIBjA6V_>C8asbR7R<q%*_@Bltk4f]'sTNA1P"(2,bG(<8dg0O$[sF,_<Z_4Oah8>DhYJU]TA^Gf+f-H\o$R4>`:WK&4VZJ]JX#.=fP_6oAY!*ePR0F3QrECmtd![%c<K3kN3>/,(V\9$6(:GKDfh>+\[N_XrW@DmcEEHb$GSEG1n<Q6f8+;4/ldO<2+<'/2F'7!RfZ-'kGBb:cs+7X6aVe17h=*^Jh:]qARXMIMfTHI*S4Uf/8()iI7WY^T#&.Ods)8ee?00)"S/6!C8J.%b]RG=)`;V>GP0Z+loWN.egDi)>3"7K8RMI`1sl(`lEH3<_[U(1<`[@[4=]$,c(-`IH@%RSRjs!8h)[##GbLRI*R_FRJM-Zp$q_Hl!A2oG'0%n.^d%#4OQ07\:T<Um>&J=GueC2W1<odReh$jZ*\RUidkCk#W,<h!I4G1N7sFRAnCC'+r*T:K2)297L0HO:^SA'4%3DhC:8fIjL8]l-,Te%FC2jNGlo`mT%U<'e,mKOpGSC%R$hJl6AHmGE*\8>80bQs[@H2*p'WAC6uba%R9:X_MC:A?#3-K^HK+'"A<9<<u^oFtsba.m$25a.mY4/<3_5[CWtg`P"mY#6C$<!2?1hZi~>endstream
 endobj
 xref
-0 7
+0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000064 00000 n 
-0000000121 00000 n 
-0000000269 00000 n 
-0000001254 00000 n 
-0000001329 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000504 00000 n 
+0000000716 00000 n 
+0000000944 00000 n 
+0000001012 00000 n 
+0000001292 00000 n 
+0000001351 00000 n 
 trailer
-<< /Size 7
-   /Root 1 0 R
+<<
+/ID 
+[<a298d734c0574988fbd0438d6c086c49><a298d734c0574988fbd0438d6c086c49>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 8 0 R
+/Root 7 0 R
+/Size 11
 >>
 startxref
-1399
+2822
 %%EOF
