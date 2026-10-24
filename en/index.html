@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bruno H. Colussi — Portfolio</title>
+  <meta name="description" content="Computer Science student focused on software development. Passo Fundo, RS, Brazil. Projects, education and contact.">
+  <meta name="theme-color" content="#FFFFFF">
+
+  <!-- SEO & Open Graph -->
+  <link rel="canonical" href="https://brunohcolussi.github.io/en/">
+  <link rel="alternate" hreflang="pt-BR" href="https://brunohcolussi.github.io/">
+  <link rel="alternate" hreflang="en" href="https://brunohcolussi.github.io/en/">
+  <link rel="alternate" hreflang="x-default" href="https://brunohcolussi.github.io/">
+
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://brunohcolussi.github.io/en/">
+  <meta property="og:title" content="Bruno H. Colussi — Portfolio">
+  <meta property="og:description" content="Computer Science student focused on software development. Passo Fundo, RS, Brazil.">
+  <meta property="og:image" content="https://brunohcolussi.github.io/assets/img/social/og-image.webp">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Bruno H. Colussi — Portfolio">
+  <meta name="twitter:description" content="Computer Science student focused on software development. Passo Fundo, RS, Brazil.">
+  <meta name="twitter:image" content="https://brunohcolussi.github.io/assets/img/social/og-image.webp">
+
+  <!-- Theme anti-flash script -->
+  <script>
+    (function() {
+      var saved = localStorage.getItem('theme');
+      if (saved === 'dark' || (!saved && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      } else {
+        document.documentElement.setAttribute('data-theme', 'light');
+      }
+    })();
+  </script>
+
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <!-- FIXED HEADER -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="#hero" class="brand" aria-label="Go to top">Bruno H. Colussi</a>
+
+      <div class="nav-group">
+        <nav aria-label="Primary navigation">
+          <ul class="nav-menu">
+            <li><a href="#projects" class="nav-link">Projects</a></li>
+            <li><a href="#about" class="nav-link">About</a></li>
+            <li><a href="#contact" class="nav-link">Contact</a></li>
+            <li><a href="../curriculo.pdf" class="nav-link" target="_blank" rel="noopener">Resume (PDF)</a></li>
+          </ul>
+        </nav>
+
+        <div class="actions-group">
+          <span aria-hidden="true" style="color: var(--border);">|</span>
+          <a href="../index.html" class="lang-switch" aria-label="Versão em Português">PT</a>
+          <span aria-hidden="true" style="color: var(--text-muted);">/</span>
+          <a href="index.html" class="lang-switch" aria-current="true" aria-label="English version (current)">EN</a>
+
+          <button id="theme-toggle" class="btn-icon" type="button" aria-pressed="false" aria-label="Toggle color theme" data-title-light="Switch to dark theme" data-title-dark="Switch to light theme">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="12" cy="12" r="5"></circle>
+              <line x1="12" y1="1" x2="12" y2="3"></line>
+              <line x1="12" y1="21" x2="12" y2="23"></line>
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+              <line x1="1" y1="12" x2="3" y2="12"></line>
+              <line x1="21" y1="12" x2="23" y2="12"></line>
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+            </svg>
+          </button>
+
+          <button id="menu-toggle" class="btn-icon menu-toggle" type="button" aria-expanded="false" aria-controls="mobile-drawer" aria-label="Open navigation menu">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <line x1="3" y1="12" x2="21" y2="12"></line>
+              <line x1="3" y1="6" x2="21" y2="6"></line>
+              <line x1="3" y1="18" x2="21" y2="18"></line>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Mobile Drawer -->
+    <div id="mobile-drawer" class="mobile-drawer">
+      <ul class="mobile-menu-list">
+        <li><a href="#projects" class="nav-link">Projects</a></li>
+        <li><a href="#about" class="nav-link">About</a></li>
+        <li><a href="#contact" class="nav-link">Contact</a></li>
+        <li><a href="../curriculo.pdf" class="nav-link" target="_blank" rel="noopener">Resume (PDF)</a></li>
+      </ul>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <!-- HERO SECTION -->
+    <section id="hero" class="section hero">
+      <div class="container">
+        <h1 class="hero-title">Bruno H. Colussi</h1>
+        <p class="hero-headline">Computer Science student focused on software development</p>
+        <div class="hero-ctas">
+          <a href="#projects" class="btn btn-primary">View projects</a>
+          <a href="https://github.com/brunohcolussi" class="btn btn-secondary" target="_blank" rel="noopener">GitHub ↗</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section id="projects" class="section section-alt">
+      <div class="container">
+        <h2 class="section-title">Projects</h2>
+        <div class="projects-grid">
+
+          <!-- Card 1: forma-fake-store -->
+          <article class="project-card">
+            <div class="project-img-wrapper">
+              <img src="../assets/img/projects/forma-fake-store.webp" alt="Forma Fake Store mobile application interface showing products list" class="project-img" width="640" height="360" loading="lazy">
+            </div>
+            <div class="project-card-body">
+              <span class="project-badge">Study / Guided course</span>
+              <h3 class="project-title">Forma Fake Store</h3>
+              <p class="project-desc">Mobile e-commerce showcase application consuming Fake Store API with focus on clean componentization and REST services.</p>
+              <ul class="project-tags" aria-label="Technologies used">
+                <li class="tag">React Native</li>
+                <li class="tag">Expo</li>
+                <li class="tag">TypeScript</li>
+                <li class="tag">REST API</li>
+              </ul>
+              <div class="project-links">
+                <a href="https://github.com/Vinicius-Hoffelder/forma-fake-store" target="_blank" rel="noopener">Code ↗</a>
+              </div>
+            </div>
+          </article>
+
+          <!-- Card 2: Personal Portfolio -->
+          <article class="project-card">
+            <div class="project-img-wrapper">
+              <img src="../assets/img/projects/portfolio.webp" alt="Homepage of Bruno H. Colussi's personal website" class="project-img" width="640" height="360" loading="lazy">
+            </div>
+            <div class="project-card-body">
+              <span class="project-badge">Original</span>
+              <h3 class="project-title">Static Personal Portfolio</h3>
+              <p class="project-desc">Lightweight, accessible (WCAG AA), bilingual static website with theme toggle designed for technical screening on GitHub Pages.</p>
+              <ul class="project-tags" aria-label="Technologies used">
+                <li class="tag">Semantic HTML5</li>
+                <li class="tag">Modern CSS</li>
+                <li class="tag">Vanilla JavaScript</li>
+                <li class="tag">GitHub Pages</li>
+              </ul>
+              <div class="project-links">
+                <a href="https://github.com/brunohcolussi/brunohcolussi.github.io" target="_blank" rel="noopener">Code ↗</a>
+                <a href="https://brunohcolussi.github.io/en/" target="_blank" rel="noopener">Demo ↗</a>
+              </div>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="about" class="section">
+      <div class="container">
+        <h2 class="section-title">About</h2>
+        <div class="about-content">
+          <img src="../assets/img/foto.webp" alt="Photo of Bruno H. Colussi" class="about-avatar" width="120" height="120" loading="lazy">
+          <div class="about-details">
+            <p class="about-bio">
+              Undergraduate Computer Science student dedicated to building clean, well-structured, and maintainable software. Hands-on experience with web development, API consumption, and software engineering foundations.
+            </p>
+            <ul class="about-meta-list">
+              <li class="about-meta-item"><strong>Location:</strong> Passo Fundo, RS, Brazil</li>
+              <li class="about-meta-item"><strong>Education:</strong> B.S. in Computer Science (in progress)</li>
+              <li class="about-meta-item"><strong>Main stack:</strong> JavaScript/TypeScript, React/React Native, HTML5/CSS3, Git, Node.js, Python</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact" class="section section-alt">
+      <div class="container">
+        <h2 class="section-title">Contact</h2>
+        <div class="contact-box">
+          <p>Feel free to reach out for opportunities or collaborations:</p>
+          <div class="contact-email-row">
+            <a href="mailto:brunohcolussi2001@gmail.com" class="contact-email-link">brunohcolussi2001@gmail.com</a>
+            <button id="btn-copy-email" type="button" class="btn btn-secondary copy-btn" data-feedback="Copied!">Copy email</button>
+            <span id="copy-live-alert" class="sr-only" aria-live="polite" style="position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0,0,0,0);"></span>
+          </div>
+          <ul class="contact-links-list">
+            <li><a href="https://github.com/brunohcolussi" target="_blank" rel="noopener">GitHub ↗</a></li>
+            <li><a href="../curriculo.pdf" target="_blank" rel="noopener">Resume (PDF) ↗</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>© 2026 Bruno H. Colussi. All rights reserved.</p>
+      <p><a href="https://github.com/brunohcolussi/brunohcolussi.github.io" target="_blank" rel="noopener">Source code of this site on GitHub ↗</a></p>
+    </div>
+  </footer>
+
+  <script src="../assets/js/main.js"></script>
+</body>
+</html>
